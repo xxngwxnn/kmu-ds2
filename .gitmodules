@@ -1,0 +1,57 @@
+[submodule "09.14-DS"]
+	path = 09.14-DS
+	url = https://github.com/xxngwxnn/09.14-DS.git
+[submodule "DS_23_09_19"]
+	path = DS_23_09_19
+	url = https://github.com/xxngwxnn/DS_23_09_19.git
+[submodule "DS_09_21"]
+	path = DS_09_21
+	url = https://github.com/xxngwxnn/DS_09_21.git
+[submodule "DS_09_26"]
+	path = DS_09_26
+	url = https://github.com/xxngwxnn/DS_09_26.git
+[submodule "DS_10_10"]
+	path = DS_10_10
+	url = https://github.com/xxngwxnn/DS_10_10.git
+[submodule "DS_10_17_heap_sort"]
+	path = DS_10_17_heap_sort
+	url = https://github.com/xxngwxnn/DS_10_17_heap_sort.git
+[submodule "DS_10_17_huffman_tree"]
+	path = DS_10_17_huffman_tree
+	url = https://github.com/xxngwxnn/DS_10_17_huffman_tree.git
+[submodule "DS2_DFS_BFS"]
+	path = DS2_DFS_BFS
+	url = https://github.com/xxngwxnn/DS2_DFS_BFS.git
+[submodule "DS2_Prim_MST"]
+	path = DS2_Prim_MST
+	url = https://github.com/xxngwxnn/DS2_Prim_MST.git
+[submodule "DS2_Kruskal_MST"]
+	path = DS2_Kruskal_MST
+	url = https://github.com/xxngwxnn/DS2_Kruskal_MST.git
+[submodule "DS2_Dijkstra_MST"]
+	path = DS2_Dijkstra_MST
+	url = https://github.com/xxngwxnn/DS2_Dijkstra_MST.git
+[submodule "DS2_Dijikstra_List"]
+	path = DS2_Dijikstra_List
+	url = https://github.com/xxngwxnn/DS2_Dijikstra_List.git
+[submodule "DS2_Floyd_Algorithm"]
+	path = DS2_Floyd_Algorithm
+	url = https://github.com/xxngwxnn/DS2_Floyd_Algorithm.git
+[submodule "DS2_Sorting_Practice"]
+	path = DS2_Sorting_Practice
+	url = https://github.com/xxngwxnn/DS2_Sorting_Practice.git
+[submodule "Tree"]
+	path = Tree
+	url = https://github.com/xxngwxnn/Tree.git
+[submodule "DS2_Shell_Sort"]
+	path = DS2_Shell_Sort
+	url = https://github.com/xxngwxnn/DS2_Shell_Sort.git
+[submodule "DS2_Sorting_Practice_a"]
+	path = DS2_Sorting_Practice_a
+	url = https://github.com/xxngwxnn/DS2_Sorting_Practice_a.git
+[submodule "DS2_Merge_Sort"]
+	path = DS2_Merge_Sort
+	url = https://github.com/xxngwxnn/DS2_Merge_Sort.git
+[submodule "DS2_Quick_Sort"]
+	path = DS2_Quick_Sort
+	url = https://github.com/xxngwxnn/DS2_Quick_Sort.git
