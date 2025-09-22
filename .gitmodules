@@ -1,6 +1,3 @@
 [submodule "09.14-DS"]
 	path = 09.14-DS
 	url = https://github.com/xxngwxnn/09.14-DS.git
-[submodule "DS2_Quick_Sort"]
-	path = DS2_Quick_Sort
-	url = https://github.com/xxngwxnn/DS2_Quick_Sort.git
