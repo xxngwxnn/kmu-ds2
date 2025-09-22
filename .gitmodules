@@ -1,9 +1,6 @@
 [submodule "09.14-DS"]
 	path = 09.14-DS
 	url = https://github.com/xxngwxnn/09.14-DS.git
-[submodule "DS2_DFS_BFS"]
-	path = DS2_DFS_BFS
-	url = https://github.com/xxngwxnn/DS2_DFS_BFS.git
 [submodule "DS2_Prim_MST"]
 	path = DS2_Prim_MST
 	url = https://github.com/xxngwxnn/DS2_Prim_MST.git
