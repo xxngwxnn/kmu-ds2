@@ -1,9 +1,6 @@
 [submodule "09.14-DS"]
 	path = 09.14-DS
 	url = https://github.com/xxngwxnn/09.14-DS.git
-[submodule "DS_10_10"]
-	path = DS_10_10
-	url = https://github.com/xxngwxnn/DS_10_10.git
 [submodule "DS_10_17_heap_sort"]
 	path = DS_10_17_heap_sort
 	url = https://github.com/xxngwxnn/DS_10_17_heap_sort.git
